@@ -1,0 +1,25 @@
+h1{
+    font: arial;
+    font-size: 50px;
+    text-transform: uppercase;
+    background-color: aquamarine;
+    text-align: center;
+    
+    
+    
+      
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: blue;
+}
+body{
+    background-color: cadetblue;
+        
+}
+img{
+    width: px;
+    height: auto;
+}
